@@ -1,0 +1,31 @@
+﻿ID,Titulo,Autor,Ano,Setor_Urbano,Impacto_Estimado,Relevancia_Tese
+1,Gestão de Resíduos em Smart Cities,"Silva, A.",2022,GOVERNANÇA,Alto,ESSENCIAL: Prioridade na Dissertação
+2,Mobilidade Ativa em Centros Urbanos,"Souza, R.",2021,TRANSPORTE,Médio,COMPLEMENTAR: Leitura de apoio
+3,Políticas de Habitação Social,"Costa, M.",2023,SOCIAL,Alto,ESSENCIAL: Prioridade na Dissertação
+4,Algoritmos de Otimização de Tráfego,"Oliveira, F.",2020,OPERACIONAL,Baixo,COMPLEMENTAR: Leitura de apoio
+5,Governança Digital e Participação,"Santos, L.",2022,GOVERNANÇA,Alto,ESSENCIAL: Prioridade na Dissertação
+6,Drenagem Urbana Sustentável,"Pereira, G.",2019,INFRAESTRUTURA,Médio,COMPLEMENTAR: Leitura de apoio
+7,O Papel da IA no Planejamento Urbano,"Nunes, C.",2024,TECNOLOGIA,Alto,ESSENCIAL: Prioridade na Dissertação
+8,Gentrificação e Espaço Público,"Lima, J.",2021,SOCIAL,Médio,COMPLEMENTAR: Leitura de apoio
+9,Logística Urbana de Carga,"Rocha, P.",2023,OPERACIONAL,Alto,ESSENCIAL: Prioridade na Dissertação
+10,Resiliência Urbana a Desastres,"Martins, K.",2022,INFRAESTRUTURA,Alto,ESSENCIAL: Prioridade na Dissertação
+11,Parcerias Público-Privadas em Cidades,"Almeida, T.",2020,GOVERNANÇA,Médio,COMPLEMENTAR: Leitura de apoio
+12,Redes Neurais na Previsão de Demanda,"Ferreira, H.",2023,OPERACIONAL,Alto,ESSENCIAL: Prioridade na Dissertação
+13,Urbanismo Tático e Comunidade,"Gomes, V.",2021,SOCIAL,Baixo,COMPLEMENTAR: Leitura de apoio
+14,Infraestrutura Verde e Microclima,"Barbosa, S.",2022,MEIO AMBIENTE,Médio,COMPLEMENTAR: Leitura de apoio
+15,Data Mining em Dados Governamentais,"Mendes, R.",2024,TECNOLOGIA,Alto,ESSENCIAL: Prioridade na Dissertação
+16,Economia Circular em Áreas Urbanas,"Castro, D.",2023,MEIO AMBIENTE,Médio,IMPORTANTE: Revisar com atenção
+17,Simulação de Fluxo de Pedestres,"Cardoso, M.",2020,OPERACIONAL,Baixo,COMPLEMENTAR: Leitura de apoio
+18,Governança Metropolitana Integrada,"Silva, P.",2021,GOVERNANÇA,Alto,IMPORTANTE: Revisar com atenção
+19,Sensores IoT para Qualidade do Ar,"Lima, E.",2022,TECNOLOGIA,Médio,COMPLEMENTAR: Leitura de apoio
+20,Direito à Cidade e Urbanismo,"Araujo, F.",2019,SOCIAL,Alto,IMPORTANTE: Revisar com atenção
+21,Modelagem de Crescimento Urbano,"Ribeiro, G.",2023,TECNOLOGIA,Médio,IMPORTANTE: Revisar com atenção
+22,Segurança Pública e Iluminação LED,"Duarte, S.",2021,INFRAESTRUTURA,Baixo,COMPLEMENTAR: Leitura de apoio
+23,Teoria das Filas em Serviços Públicos,"Neves, L.",2022,OPERACIONAL,Alto,ESSENCIAL: Prioridade na Dissertação
+24,Orçamento Participativo Digital,"Xavier, J.",2024,GOVERNANÇA,Alto,ESSENCIAL: Prioridade na Dissertação
+25,Mobilidade Elétrica e Redução de CO2,"Farias, A.",2023,TRANSPORTE,Médio,IMPORTANTE: Revisar com atenção
+26,Reabilitação de Centros Históricos,"Monteiro, C.",2020,SOCIAL,Baixo,COMPLEMENTAR: Leitura de apoio
+27,Algoritmos Genéticos no Zoneamento,"Pires, M.",2022,TECNOLOGIA,Alto,ESSENCIAL: Prioridade na Dissertação
+28,Planejamento Orientado ao Transporte,"Carvalho, R.",2021,TRANSPORTE,Médio,COMPLEMENTAR: Leitura de apoio
+29,Gestão de Crises em Redes Hídricas,"Antunes, B.",2023,INFRAESTRUTURA,Alto,ESSENCIAL: Prioridade na Dissertação
+30,Cidades de 15 Minutos: Um Estudo,"Machado, D.",2024,GOVERNANÇA,Alto,ESSENCIAL: Prioridade na Dissertação

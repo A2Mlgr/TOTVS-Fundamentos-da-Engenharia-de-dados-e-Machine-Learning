@@ -1,0 +1,31 @@
+﻿ID;Titulo;Autor;Ano;Setor_Urbano;Impacto_Estimado
+1;Gestão de Resíduos em Smart Cities;Silva, A.;2022;Governança;Alto
+2;Mobilidade Ativa em Centros Urbanos;Souza, R.;2021;Transporte;Médio
+3;Políticas de Habitação Social;Costa, M.;2023;Social;Alto
+4;Algoritmos de Otimização de Tráfego;Oliveira, F.;2020;Operacional;Baixo
+5;Governança Digital e Participação;Santos, L.;2022;Governança;Alto
+6;Drenagem Urbana Sustentável;Pereira, G.;2019;Infraestrutura;Médio
+7;O Papel da IA no Planejamento Urbano;Nunes, C.;2024;Tecnologia;Alto
+8;Gentrificação e Espaço Público;Lima, J.;2021;Social;Médio
+9;Logística Urbana de Carga;Rocha, P.;2023;Operacional;Alto
+10;Resiliência Urbana a Desastres;Martins, K.;2022;Infraestrutura;Alto
+11;Parcerias Público-Privadas em Cidades;Almeida, T.;2020;Governança;Médio
+12;Redes Neurais na Previsão de Demanda;Ferreira, H.;2023;Operacional;Alto
+13;Urbanismo Tático e Comunidade;Gomes, V.;2021;Social;Baixo
+14;Infraestrutura Verde e Microclima;Barbosa, S.;2022;Meio Ambiente;Médio
+15;Data Mining em Dados Governamentais;Mendes, R.;2024;Tecnologia;Alto
+16;Economia Circular em Áreas Urbanas;Castro, D.;2023;Meio Ambiente;Médio
+17;Simulação de Fluxo de Pedestres;Cardoso, M.;2020;Operacional;Baixo
+18;Governança Metropolitana Integrada;Silva, P.;2021;Governança;Alto
+19;Sensores IoT para Qualidade do Ar;Lima, E.;2022;Tecnologia;Médio
+20;Direito à Cidade e Urbanismo;Araujo, F.;2019;Social;Alto
+21;Modelagem de Crescimento Urbano;Ribeiro, G.;2023;Tecnologia;Médio
+22;Segurança Pública e Iluminação LED;Duarte, S.;2021;Infraestrutura;Baixo
+23;Teoria das Filas em Serviços Públicos;Neves, L.;2022;Operacional;Alto
+24;Orçamento Participativo Digital;Xavier, J.;2024;Governança;Alto
+25;Mobilidade Elétrica e Redução de CO2;Farias, A.;2023;Transporte;Médio
+26;Reabilitação de Centros Históricos;Monteiro, C.;2020;Social;Baixo
+27;Algoritmos Genéticos no Zoneamento;Pires, M.;2022;Tecnologia;Alto
+28;Planejamento Orientado ao Transporte;Carvalho, R.;2021;Transporte;Médio
+29;Gestão de Crises em Redes Hídricas;Antunes, B.;2023;Infraestrutura;Alto
+30;Cidades de 15 Minutos: Um Estudo;Machado, D.;2024;Governança;Alto
