@@ -1,0 +1,36 @@
+# 1. Instalar dependências
+pip install aws-sam-cli boto3 pandas scikit-learn xgboost joblib --break-system-packages
+
+# 2. Deploy da infraestrutura
+sam build
+sam deploy \
+  --stack-name farma-clinico \
+  --region us-east-1 \
+  --capabilities CAPABILITY_IAM
+
+# 3. Fazer upload de dados clínicos para ingestão
+aws s3 cp ensaio_fase3.csv s3://farma-datalake-<ACCOUNT_ID>/raw/
+
+# 4. Treinar o modelo (roda localmente ou em SageMaker Studio)
+python sagemaker/treino.py
+
+# 5. Criar endpoint de inferência no SageMaker
+aws sagemaker create-endpoint \
+  --endpoint-name desfecho-clinico-endpoint \
+  --endpoint-config-name desfecho-config
+
+# 6. Testar predição
+curl -X POST https://<API_ID>.execute-api.us-east-1.amazonaws.com/prod/predicao \
+  -H "Content-Type: application/json" \
+  -d '{
+    "paciente": {
+      "paciente_id": "P-0042",
+      "idade": 58,
+      "peso_kg": 82.5,
+      "pressao_sistolica": 138,
+      "pressao_diastolica": 88,
+      "glicemia_jejum": 145,
+      "semana_estudo": 12,
+      "grupo_tratamento": "experimental"
+    }
+  }'
